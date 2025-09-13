@@ -1,1 +1,5 @@
-{"status":"ON","message":"","apps":["*"]}
+{
+  "status": "OFF",
+  "message": "새로운 버전이 배포 되었습니다.펨코 비용임 게시글을 통해 새 프로그램로 업데이트 해주세요.",
+  "apps": ["fifa-sim"]
+}
